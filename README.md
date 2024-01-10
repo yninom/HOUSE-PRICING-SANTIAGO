@@ -25,6 +25,6 @@ Contributions are welcome! Please follow the guidelines in [CONTRIBUTING.md](CON
 
 ## License
 
-This project is licensed under the magic license.
+This project is licensed under the magic license
 
 
